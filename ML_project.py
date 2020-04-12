@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Name : Abhishek Chauhan(11704760) and Vishal Kumar(11704868)
-# ### Section : KM030
+# ## Name : Abhishek Chauhan
 # House Price Prediction
 # Description : This is a notebook for visualization of various features which the sales price of houses. Then data is taken from the "Kaggle House Price Prediction" challenge.
 
